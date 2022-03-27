@@ -1,2 +1,4 @@
 # MiEjercicioGuia
 VersionInicial
+
+VersionConConexionDesconexion
