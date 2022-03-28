@@ -5,3 +5,5 @@ VersionInicial
 VersionConConexionDesconexion
 
 VersionConcurrente
+
+VersionExclusionMutua
